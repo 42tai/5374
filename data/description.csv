@@ -3,3 +3,10 @@ label,sublabel,description,styles,bgcolor
 資源,,,img/shigen02.svg,#77ae1f
 燃やすごみ,,,img/moyasu02.svg,#ea3b13
 びん,,,img/bin02.svg,#2dc7aa
+
+label	sublabel	description	styles	bgcolor
+もえるごみ			img/moeru02.svg	#ea3b13
+もえないごみ			img/moenai02.svg	#733b96
+有害危険ごみ			img/yuugai02.svg	#685ecf
+資源物2類			img/shigen2_02.svg	#77ae1f
+資源物1類			img/shigen1_02.svg	#2dc7aa
