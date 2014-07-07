@@ -1,6 +1,6 @@
 label,sublabel,description,styles,bgcolor
-もえるごみ,,,img/moyasu02.svg,#ec706d
+もえるごみ,,,img/moeru02.svg,#ec706d
 もえないごみ,,,img/moenai02.svg,#70b5e5
-有害危険ごみ,,,img/shigen02.svg,#f58345
-資源物2類,,,img/shigen02.svg,#a5cf4c
-資源物1類,,,img/shigen02.svg,#36bb9d
+有害危険ごみ,,,img/yuugai02.svg,#f58345
+資源物2類,,,img/shigenbutuni02.svg,#a5cf4c
+資源物1類,,,img/shigenbutuichi02.svg,#36bb9d
