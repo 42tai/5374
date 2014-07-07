@@ -19,10 +19,10 @@
    enable-background="new 0 0 120 23"
    xml:space="preserve"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="moyasanai02.svg"><metadata
+   sodipodi:docname="moenai02.svg"><metadata
    id="metadata3135"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs3133" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -50,14 +50,16 @@
 
 <text
    xml:space="preserve"
-   style="font-size:22.06680107px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f7f9f9;fill-opacity:1;stroke:none;font-family:Meiryo;-inkscape-font-specification:Meiryo Bold"
-   x="-1.1751895"
-   y="19.301052"
+   style="font-size:22.61613464px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f7f9f9;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
+   x="-1.6475844"
+   y="19.408504"
    id="text3137"
    sodipodi:linespacing="125%"
-   transform="scale(0.91425788,1.0937833)"><tspan
+   transform="scale(0.89648531,1.1154672)"><tspan
      sodipodi:role="line"
      id="tspan3139"
-     x="-1.1751895"
-     y="19.301052">もえないごみ</tspan></text>
+     x="-1.6475844"
+     y="19.408504"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Segoe UI;-inkscape-font-specification:Segoe UI">もえないごみ</tspan></text>
+
 </svg>
